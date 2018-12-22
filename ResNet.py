@@ -152,4 +152,4 @@ if __name__=='__main__':
     resnet.save('resnet_{:d}_{}.h5'.format(layers,args.dataset))
 
 
-    #fdngddgnkldfnbg
+    #fdngddgnkldfnbgnffkbnkbn八八八八八
